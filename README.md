@@ -2,6 +2,11 @@
 
 first flutter app
 
+<<<<<<< HEAD
+=======
+![i_am_rich](https://user-images.githubusercontent.com/101963786/167243723-159a41be-394d-4572-875d-01130cf390be.png)
+
+>>>>>>> 544f4699b38c7445f59e427b673a9a95778380cc
 ## Getting Started
 
 This project is a starting point for a Flutter application.
