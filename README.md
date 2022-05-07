@@ -2,6 +2,8 @@
 
 first flutter app
 
+/home/muniraja/Desktop/Udemy/flutter/images/i_am_rich_app_icon.png
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
